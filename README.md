@@ -1,4 +1,5 @@
 # UnityVertexModify2D
+Adds Free Form Deformation to the Unity 2D Animation Package.
 
 How to use:
 
